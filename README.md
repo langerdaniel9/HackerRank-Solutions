@@ -1,3 +1,3 @@
 # HackerRank-Solutions
 
-Various assignments from hackerrank.com that I solved
+Various assignments from https://hackerrank.com that I solved
