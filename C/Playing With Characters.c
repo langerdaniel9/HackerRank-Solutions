@@ -1,3 +1,9 @@
+/*
+Task
+
+You have to print the character, ch, in the first line. Then print s in next line. In the last line print the sentence, sen.
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
@@ -18,7 +24,6 @@ int main()
     getchar();
     scanf("%[^\n]%*c", sen);
     printf("%s\n", sen);
-    
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
+     
     return 0;
 }
